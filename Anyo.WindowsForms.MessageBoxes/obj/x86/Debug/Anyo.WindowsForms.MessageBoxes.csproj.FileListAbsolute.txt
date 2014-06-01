@@ -1,0 +1,29 @@
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\bin\Debug\Anyo.WindowsForms.MessageBoxes.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\Anyo.WindowsForms.MessageBoxes.Properties.Resources.resources
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\Anyo.WindowsForms.MessageBoxes.SampleMessageBox.resources
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\Anyo.WindowsForms.MessageBoxes.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\bin\Debug\Anyo.WindowsForms.MessageBoxes.dll
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\For test\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\Anyo.WindowsForms.MessageBoxes.dll
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\bin\Debug\Anyo.WindowsForms.MessageBoxes.XML
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\bin\Debug\Anyo.WindowsForms.MessageBoxes.dll
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\bin\Debug\Anyo.WindowsForms.MessageBoxes.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\Anyo.WindowsForms.MessageBoxes.Properties.Resources.resources
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\Anyo.WindowsForms.MessageBoxes.SampleMessageBox.resources
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\Anyo.WindowsForms.MessageBoxes.dll
+D:\new age\1 TELERIK\JobAttack\REAL\WidowsForms\POS_test\ForSend\16.03.2014\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\Anyo.WindowsForms.MessageBoxes.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\bin\Debug\Anyo.WindowsForms.MessageBoxes.XML
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\bin\Debug\Anyo.WindowsForms.MessageBoxes.dll
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\bin\Debug\Anyo.WindowsForms.MessageBoxes.pdb
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\Anyo.WindowsForms.MessageBoxes.Properties.Resources.resources
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\Anyo.WindowsForms.MessageBoxes.SampleMessageBox.resources
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\Anyo.WindowsForms.MessageBoxes.dll
+D:\new age\1 TELERIK\JobAttack\REAL\Documentation\RealDoc\DocumantationSource\Anyo.WindowsForms\AnyoWindowsFormsMessageBoxes\Anyo.WindowsForms.MessageBoxes\obj\x86\Debug\Anyo.WindowsForms.MessageBoxes.pdb

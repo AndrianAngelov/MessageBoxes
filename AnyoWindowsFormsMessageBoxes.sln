@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anyo.WindowsForms.MessageBoxes", "Anyo.WindowsForms.MessageBoxes\Anyo.WindowsForms.MessageBoxes.csproj", "{20E4C1C4-7066-471F-AFED-241AC05A3A33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingMessageBoxes", "TestingMessageBoxes\TestingMessageBoxes.csproj", "{7D83DCED-0396-492A-8CFF-BF355653DC0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E4C1C4-7066-471F-AFED-241AC05A3A33}.Debug|x86.ActiveCfg = Debug|x86
+		{20E4C1C4-7066-471F-AFED-241AC05A3A33}.Debug|x86.Build.0 = Debug|x86
+		{20E4C1C4-7066-471F-AFED-241AC05A3A33}.Release|x86.ActiveCfg = Release|x86
+		{20E4C1C4-7066-471F-AFED-241AC05A3A33}.Release|x86.Build.0 = Release|x86
+		{7D83DCED-0396-492A-8CFF-BF355653DC0B}.Debug|x86.ActiveCfg = Debug|x86
+		{7D83DCED-0396-492A-8CFF-BF355653DC0B}.Debug|x86.Build.0 = Debug|x86
+		{7D83DCED-0396-492A-8CFF-BF355653DC0B}.Release|x86.ActiveCfg = Release|x86
+		{7D83DCED-0396-492A-8CFF-BF355653DC0B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
